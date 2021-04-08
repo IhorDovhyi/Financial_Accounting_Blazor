@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Financial_Accounting_Blazor", "Financial_Accounting_Blazor\Financial_Accounting_Blazor.csproj", "{BC94C933-D7C6-49B1-BABA-AABC89F696F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financial_Accounting_Blazor_Tests", "Financial_Accounting_Blazor_Tests\Financial_Accounting_Blazor_Tests.csproj", "{F8680EBE-8A4B-4CB2-98E2-21453C95B7A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC94C933-D7C6-49B1-BABA-AABC89F696F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC94C933-D7C6-49B1-BABA-AABC89F696F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC94C933-D7C6-49B1-BABA-AABC89F696F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC94C933-D7C6-49B1-BABA-AABC89F696F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8680EBE-8A4B-4CB2-98E2-21453C95B7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8680EBE-8A4B-4CB2-98E2-21453C95B7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8680EBE-8A4B-4CB2-98E2-21453C95B7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8680EBE-8A4B-4CB2-98E2-21453C95B7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20CB37AC-52D0-4CB2-B1E1-3418122889DB}
+	EndGlobalSection
+EndGlobal
